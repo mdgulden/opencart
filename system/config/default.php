@@ -13,7 +13,7 @@ $_['db_type']              = 'mysqli'; // mpdo, mssql, mysql, mysqli or postgre
 $_['db_hostname']          = 'localhost';
 $_['db_username']          = 'root';
 $_['db_password']          = '';
-$_['db_database']          = '';
+$_['db_database']          = 'opencartdb';
 $_['db_port']              = 3306;
 
 // Mail
